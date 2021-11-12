@@ -1,0 +1,47 @@
+Unit of Study Outline
+COS10011
+Creating Web Applications
+Semester 1 2019
+
+Swinburne University Logo
+
+Unit Learning Outcomes
+ 
+Upon completion of this unit student will be able to:
+
+Describe the role of networking in the context of web including tools to configure web clients and servers.
+Demonstrate the use of mark up and presentation languages in creating web pages.
+Demonstrate the use of server scripting and database access to create data driven webpages.
+Describe the interaction between components of a web application, and comment on issues related to privacy, security, and commercial and social issues.
+
+Content 
+
+Overview of the Internet and the World Wide Web.
+Clients and servers on the Web.
+Developing web sites with HTML, CSS, JavaScript, XML, DOM, PHP and MySQL.
+Validating HTML and CSS against accepted standards.
+Creating Web pages with client and server side interactivity.
+Application of accessibility and usability principles.
+
+Assessments 
+Assessment Task Details: 
+
+Assessment Task, Individual/Group Task, Related Learning Objective(s), Weighting,Due Date
+Weekly quizzes, Individual, 1-4, 10%, Weekly
+Lab exercises, Individual, 1-4, 10%, Weekly
+Assignment Part 1, Individual, 2, 12%, Week 5: 8 am day of your tutorial
+Assignment Part 2, Individual, 2,3, 14%, Week 8: 8 am day of your tutorial
+Assignment Part 3, Individual, 2,3, 14%, Week 12: 8 am day of your tutorial
+Final exam, Individual, 1-4, 40%, 	
+
+
+
+Weekly quizzes: are short online quizzes completed at the beginning of your tutorial. See the Schedule above for the topics and dates of these quizzes. In general they cover the material from the previous lectures and are closed book.
+Lab exercises: in the tutorial your tutor will review the completion of your completed lab exercises. You are encourage to attempt to complete the set exercises before your tutorial so you have time to discuss any issues that arise with you tutor and have time to get them marked off.
+Assignments: Parts 1, 2 and 3: are incremental instalments of a web site development task. In Part 1 you will demonstrate your ability to develop and deploy on a server well-structured, linked Web pages with text, graphics, tables and forms, styled with CSS. Part 2 further extends the use of HTML elements and makes use of JavaScript to validate forms and add dynamic behaviour to the Web page. In Part 3 you will use forms to submit and retrieve data from a server using PHP and MySQL. 
+
+Minimum Requirements to pass this Unit:
+To pass this unit you must achieve:
+
+achieve an aggregate mark for the subject of 50% or more, and
+achieve at least 40% in the final exam.
