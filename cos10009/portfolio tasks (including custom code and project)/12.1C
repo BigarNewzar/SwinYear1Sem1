@@ -1,0 +1,29 @@
+# tester_demo.rb
+require "minitest/autorun"
+require_relative "student"
+
+class StudentTest < Minitest::Test
+
+  def test_student_id_is_integer
+    assert_kind_of Integer, get_student_id(2)
+	
+  end
+  
+  
+
+# insert a test here for the finding the correct student for id 300
+def test_correct_student_for_id_300
+    assert_equal( "Jill", get_student_name_for_id(300), "INVALID")
+	end
+	
+
+# insert a test here for returning "Not Found" for student with id 800
+def test_not_found_for_id_800
+    
+	assert_equal( "Not Found", get_student_name_for_id(800), "Invalid")
+	end
+# # insert a test here for finding the correct student name for array position 0
+def test_first_student_name_in_array
+    assert_equal( "Fred", get_student_name(0), "Invalid")
+	end
+end 
